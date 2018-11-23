@@ -1,6 +1,6 @@
 <?php
 
-namespace Sentiger\AliDy;
+namespace Yiche\AliDy;
 
 /**
  * 签名助手 2017/11/19

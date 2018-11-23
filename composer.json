@@ -8,7 +8,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Sentiger\\AliDy\\": "src/"
+      "Yiche\\AliDy\\": "src/"
     }
   },
   "require": {}

@@ -6,7 +6,7 @@
  * Time: 13:02
  */
 
-namespace Sentiger\AliDy\Exceptions;
+namespace Yiche\AliDy\Exceptions;
 
 class InvalidArgumentException extends Exception
 {

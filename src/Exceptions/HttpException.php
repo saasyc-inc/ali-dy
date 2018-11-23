@@ -1,6 +1,6 @@
 <?php
 
-namespace Sentiger\AliDy\Exceptions;
+namespace Yiche\AliDy\Exceptions;
 
 class HttpException extends Exception
 {

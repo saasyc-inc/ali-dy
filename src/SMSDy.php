@@ -6,11 +6,11 @@
  * Time: 14:29
  */
 
-namespace Sentiger\AliDy;
+namespace Yiche\AliDy;
 
-use Sentiger\AliDy\Exceptions\HttpException;
-use Sentiger\AliDy\Exceptions\InvalidArgumentException;
-use Sentiger\AliDy\Exceptions\ResponseException;
+use Yiche\AliDy\Exceptions\HttpException;
+use Yiche\AliDy\Exceptions\InvalidArgumentException;
+use Yiche\AliDy\Exceptions\ResponseException;
 
 class SMSDy
 {

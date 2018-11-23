@@ -1,6 +1,7 @@
 # 轻量级阿里大鱼扩展包
 ## package源安装
 > `composer require sentiger/ali-dy -vvv`
+
 ## 私有源安装
 ```javascript
 {

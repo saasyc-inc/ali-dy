@@ -1,6 +1,21 @@
 # 轻量级阿里大鱼扩展包
-## 安装
-`composer require sentiger/ali-dy -vvv`
+## package源安装
+> `composer require sentiger/ali-dy -vvv`
+## 私有源安装
+```javascript
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://code.lrwanche.com/shiwh/ali-dy.git"
+    }
+  ],
+  "require": {
+    "sentiger/ali-dy": "dev-master"
+  }
+}
+```
+
 
 ## 配置
 查看阿里大鱼文档

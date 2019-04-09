@@ -14,7 +14,7 @@ $config    = [
     'signName'        => 'xxx',
     'templateCode'    => 'xxx',
 ];
-$smsClient = new \Sentiger\AliDy\SMSDy($config);
+$smsClient = new \Yiche\AliDy\SMSDy($config);
 
 $res = $smsClient->sendSMS('17602191131', [
     'TemplateParam' => [

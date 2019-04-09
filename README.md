@@ -2,21 +2,6 @@
 ## package源安装
 > `composer require sentiger/ali-dy -vvv`
 
-## 私有源安装
-```javascript
-{
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://code.lrwanche.com/shiwh/ali-dy.git"
-    }
-  ],
-  "require": {
-    "sentiger/ali-dy": "dev-master"
-  }
-}
-```
-
 
 ## 配置
 查看阿里大鱼文档
@@ -38,5 +23,5 @@ $res = $smsClient->sendSMS('17602191131', [
     ]
 ]);
 
-print_r($res);
+var_dump($res);
 ```
